@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57ba5c71-bff0-4181-b824-4395ea693bc9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1YGnNyIKojwKDYiMLojv6FCKM4T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Assignments" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57ba5c71-bff0-4181-b824-4395ea693bc9" name="Default Changelist" comment="" />
+      <created>1582577762642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582577762642</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom" timestamp="1583147346446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1582748780217" />
+    <state width="1557" height="222" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1582784594620" />
+    <state width="1877" height="222" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1583147346446" />
+    <state width="1877" height="222" key="GridCell.Tab.0.center" timestamp="1583147346446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1582748780217" />
+    <state width="1557" height="222" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1582784594619" />
+    <state width="1877" height="222" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1583147346446" />
+    <state width="1877" height="222" key="GridCell.Tab.0.left" timestamp="1583147346446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1582748780217" />
+    <state width="1557" height="222" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1582784594619" />
+    <state width="1877" height="222" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1583147346446" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right" timestamp="1583147346446">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="263" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1582748780217" />
+    <state width="1557" height="222" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1582784594619" />
+    <state width="1877" height="222" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1583147346446" />
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom" timestamp="1582582440765">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1582582440765" />
+    <state width="1237" height="325" key="GridCell.Tab.1.center" timestamp="1582582440765">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1582582440765" />
+    <state width="1237" height="325" key="GridCell.Tab.1.left" timestamp="1582582440765">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1582582440765" />
+    <state width="1237" height="325" key="GridCell.Tab.1.right" timestamp="1582582440765">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1237" height="325" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1582582440765" />
+    <state x="336" y="316" key="com.intellij.ide.util.TipDialog" timestamp="1582582702025">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="316" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1582582702025" />
+    <state x="340" y="511" key="extract.method.dialog" timestamp="1582580475862">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="340" y="511" key="extract.method.dialog/0.0.1280.984@0.0.1280.984" timestamp="1582580475862" />
+    <state x="22" y="112" key="new project wizard" timestamp="1583778901012">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="22" y="112" key="new project wizard/0.0.1280.984@0.0.1280.984" timestamp="1583778901012" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="inputFromUser" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
